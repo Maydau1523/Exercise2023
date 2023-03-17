@@ -1,0 +1,15 @@
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\Session13_1.csproj.AssemblyReference.cache
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\Session13_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\Session13_1.AssemblyInfoInputs.cache
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\Session13_1.AssemblyInfo.cs
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\Session13_1.csproj.CoreCompileInputs.cache
+D:\Users\maydau1524\code\Exercise2023\Session13_1\bin\Debug\net7.0\Session13_1.exe
+D:\Users\maydau1524\code\Exercise2023\Session13_1\bin\Debug\net7.0\Session13_1.deps.json
+D:\Users\maydau1524\code\Exercise2023\Session13_1\bin\Debug\net7.0\Session13_1.runtimeconfig.json
+D:\Users\maydau1524\code\Exercise2023\Session13_1\bin\Debug\net7.0\Session13_1.dll
+D:\Users\maydau1524\code\Exercise2023\Session13_1\bin\Debug\net7.0\Session13_1.pdb
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\Session13_1.dll
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\refint\Session13_1.dll
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\Session13_1.pdb
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\Session13_1.genruntimeconfig.cache
+D:\Users\maydau1524\code\Exercise2023\Session13_1\obj\Debug\net7.0\ref\Session13_1.dll
